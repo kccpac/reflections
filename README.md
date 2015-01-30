@@ -1,2 +1,2 @@
-echo # reflections >> README.md
+echo # reflections >> README.md /
 git init
