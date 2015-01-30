@@ -1,2 +1,2 @@
-echo # reflections >> README.md /
-git init
+<p>echo # reflections >> README.md</p>
+<p>git init</p>
